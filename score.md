@@ -410,3 +410,7 @@ private void button1_Click(object sender, EventArgs e)
 }
 ```
 
+## 👉相似程式延伸
+
+##### 延伸使用至記帳程式
+<img src="https://github.com/yichiaaa/c/raw/main/record.png" alt="介面設計" >
